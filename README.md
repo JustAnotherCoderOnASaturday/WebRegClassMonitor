@@ -7,11 +7,11 @@ Frustrated that emailing the Advisors won't help solve your problem?
 Well Heres a program that will monitor the website and message you if there is an update.
   or do all the scraping work for you so you can build your email/message/call system.
 
---=== Requirements ===--
-Selenium
-BeautifulSoup4
-time
---===     XXXXX    ===--
+--=== Requirements ===--\n
+Selenium\n
+BeautifulSoup4\n
+time\n
+--===     XXXXX    ===--\n
 
 The program I created was build such that you would 
   first enter the department (ex. COMPSCI, I&C SCI, PSYCH)
