@@ -1,0 +1,1400 @@
+1545452093397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.ApsmxVNgAXNl"
+1545452102960	Marionette	INFO	Listening on port 53935
+1545452103026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545452103079	Marionette	DEBUG	[6442450945] Frame script loaded
+1545452103255	Marionette	DEBUG	[6442450945] Frame script registered
+1545452103575	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545452105901	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545452106394	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545452106966	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[[Child 11580, Chrome_ChChild i11416, Chrome_ChildThread] WARNING: pipe error: ldThread] WARNING: pipe error: 1091:0 9: file z:/build/build/src/ipc/chrofmium/src/chrome/common/ipc_channel_win.cc, line ile z:/build/build/s346rc/ipc/chromium/src/chrome/common
+/ipc_channel_win.cc, line 346[Child 11416, C
+[Child 11580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 10768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6811545453087404	Marionette	INFO	Stopped listening on port 53935
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 2868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui1545453239882	Marionette	INFO	Stopped listening on port 54001
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+50945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Child 5844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5844, Chrome_ChildThr1545453235334	Marionette	INFO	Stopped listening on port 54051
+[GPU 10304, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ved DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453221833	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7392, [Parent 11776, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1311545453230042	Marionette	INFO	Stopped listening on port 54087
+[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545453246126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.Dd0RS3il51Iy"
+1545453250539	Marionette	INFO	Listening on port 54127
+1545453250681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545453250732	Marionette	DEBUG	[6442450945] Frame script loaded
+1545453250742	Marionette	DEBUG	[6442450945] Frame script registered
+1545453250756	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545453252750	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545453253126	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453253400	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 3856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3856, Chrome_ChildThread] WARNING: 1545462043226	Marionette	INFO	Stopped listening on port 54127
+[GPU 3196, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Parent 5852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41545453491280	Marionette	INFO	Stopped listening on port 54180
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error[Child 11720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1172[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil1545453538801	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545453538858	Marionette	DEBUG	[6442450945] Frame script loa[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545453541670	Marionette	INFO	Stopped listening on port 54217
+[GPU 13128, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453540728	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545453541181	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10140, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l1545453663633	Marionette	INFO	Stopped listening on port 54259
+[GPU 2824, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ut:blank
+1545453617427	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545453617489	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453618961	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 12804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc1545453657730	Marionette	INFO	Listening on port 54335
+1545453658236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545453658332	Marionette	DEBUG	[6442450945] Frame script loaded
+1545453658391	Marionette	DEBUG	[6442450945] Frame script registered
+1545453658446	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545453659599	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545453659757	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453660231	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 1096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5704, Chrome_Ch1545453684427	Marionette	INFO	Stopped listening on port 54335
+[GPU 2480
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.uci.edu/perl/WebSoc
+[Parent 12628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Child 4260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build6/bui
+ld/src/ipc/chromium/src[/chrome/common/ipc_channel_win.cc, line 346
+[Child 4260, C[Parent 12628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9580, Chrome_ChildThread] WARN1545453680863	Marionette	INFO	Stopped listening on port 54373
+[GPU 10
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545453700040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.kT1LpCL58lvY"
+1545453704769	Marionette	INFO	Listening on port 54412
+1545453705166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545453705315	Marionette	DEBUG	[6442450945] Frame script loaded
+1545453705374	Marionette	DEBUG	[6442450945] Frame script registered
+1545453705394	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545453706548	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545453706719	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453710275	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Child 11200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11200, Chrome_ChildThread] WARNING: pipe er[Parent 11148, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 11148, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b1545453779245	Marionette	INFO	Stopped listening on port 54412
+[GPU 748
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545453772225	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 5204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545453777797	Marionette	INFO	Stopped listening on port 54455
+[GPU 8104
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545453793120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.pqHKFi7pkudf"
+1545453797522	Marionette	INFO	Listening on port 54491
+1545453797662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545453797771	Marionette	DEBUG	[6442450945] Frame script loaded
+1545453797773	Marionette	DEBUG	[6442450945] Frame script registered
+1545453797820	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545453799710	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545453799804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545453800742	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545453801076	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 12784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 12784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12064, Chrome_Chil1545454137107	Marionette	INFO	Stopped listening on port 54491
+[GPU 7148, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545455290632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.b9BkbiJAvW9q"
+1545455295342	Marionette	INFO	Listening on port 54632
+1545455295758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545455295794	Marionette	DEBUG	[6442450945] Frame script loaded
+1545455295795	Marionette	DEBUG	[6442450945] Frame script registered
+1545455295813	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545455297960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545455298294	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455298925	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455299242	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036, Chrome_Chi1545455404839	Marionette	INFO	Stopped listening on port 54632
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455391402	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455391714	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 8564[,Chi Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8564[Parent 2920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe 1545455402620	Marionette	INFO	Stopped listening on port 54677
+[GPU 5028, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545455742329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.n7qtC9u4Vi1b"
+1545455746915	Marionette	INFO	Listening on port 54722
+1545455747425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545455747500	Marionette	DEBUG	[6442450945] Frame script loaded
+1545455747508	Marionette	DEBUG	[6442450945] Frame script registered
+1545455747527	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545455749028	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545455749268	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455750040	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455750412	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 12996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[Child 4136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4136, [Parent 5300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1545455759585	Marionette	INFO	Stopped listening on port 54722
+[GPU 6528, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545455780412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.BclZfaDA3ApK"
+1545455785247	Marionette	INFO	Listening on port 54762
+1545455785530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545455785573	Marionette	DEBUG	[6442450945] Frame script loaded
+1545455785574	Marionette	DEBUG	[6442450945] Frame script registered
+1545455785593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545455786873	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545455787037	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455788144	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455788411	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 12688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1268[Child 2060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20[Parent 5816, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545455809031	Marionette	INFO	Stopped listening on port 54762
+[GPU 8824, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545455846158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.DQLLKG18CdW4"
+1545455850464	Marionette	INFO	Listening on port 54807
+1545455850613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545455850670	Marionette	DEBUG	[6442450945] Frame script loaded
+1545455850671	Marionette	DEBUG	[6442450945] Frame script registered
+1545455850683	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545455852346	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545455852513	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455853113	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455853406	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Child 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11996, Chrome_Child[Child 608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6[Parent 4592, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 4592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11608,1545455865985	Marionette	INFO	Stopped listening on port 54807
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545455968599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.sr9VYH07AHJw"
+1545455973601	Marionette	INFO	Listening on port 54849
+1545455973977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545455974028	Marionette	DEBUG	[6442450945] Frame script loaded
+1545455974029	Marionette	DEBUG	[6442450945] Frame script registered
+1545455974048	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545455975586	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545455976009	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455976225	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545455976489	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545455976563	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545455976960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545455976965	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545455978966	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545455978980	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 5028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Ch 346ild 
+5632, Chrome_ChildTh[Child 3824, read] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5632[Parent 5028, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5028, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 5028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2928, Chrome_ChildT1545456223815	Marionette	INFO	Stopped listening on port 54849
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545457923845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.UlAzyFi9c6hL"
+1545457928470	Marionette	INFO	Listening on port 54984
+1545457928921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545457928978	Marionette	DEBUG	[6442450945] Frame script loaded
+1545457928979	Marionette	DEBUG	[6442450945] Frame script registered
+1545457929000	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545457930267	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545457930312	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545457930729	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545457930999	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545457931093	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545457931320	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545457931324	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545457931574	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545457931579	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 9540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545457941588	Marionette	INFO	Stopped listening on port 54984
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545458501420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.bSTWfIozd7Qa"
+1545458506551	Marionette	INFO	Listening on port 55034
+1545458507030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545458507077	Marionette	DEBUG	[6442450945] Frame script loaded
+1545458507078	Marionette	DEBUG	[6442450945] Frame script registered
+1545458507090	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545458508020	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545458508095	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458508888	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458509158	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545458509227	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545458509417	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545458509419	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545458509696	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458509713	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 5144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src[Child 3360, Chrome_ChildThread] /chromeW/commARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346on/i
+pc_channel_win.cc, li[ne 346
+[Child 7704, Ch1545458623264	Marionette	INFO	Stopped listening on port 55034
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545458647125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.DmetoGT5nSBr"
+1545458652261	Marionette	INFO	Listening on port 55075
+1545458652673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545458652756	Marionette	DEBUG	[6442450945] Frame script loaded
+1545458652757	Marionette	DEBUG	[6442450945] Frame script registered
+1545458652785	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545458654254	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545458654319	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458654676	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458654943	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545458654970	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545458655087	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545458655089	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545458655425	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458655428	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Parent 13124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1912, Chrome_ChildThread] WARNI[Parent 13124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1545458666867	Marionette	INFO	Stopped listening on port 55075
+[GPU 1243
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545458810555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.8E81kyXmWdCW"
+1545458815509	Marionette	INFO	Listening on port 55129
+1545458815648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545458815709	Marionette	DEBUG	[6442450945] Frame script loaded
+1545458815759	Marionette	DEBUG	[6442450945] Frame script registered
+1545458815814	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545458817300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545458817355	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458817919	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458818244	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545458818297	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545458818621	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545458818629	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545458819007	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458819010	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pi[Child 6696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6696,[Parent 4248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61545458837202	Marionette	INFO	Stopped listening on port 55129
+[GPU 1936, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545458909145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.sUCptxvFtpHF"
+1545458913362	Marionette	INFO	Listening on port 55168
+1545458913579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545458913628	Marionette	DEBUG	[6442450945] Frame script loaded
+1545458913635	Marionette	DEBUG	[6442450945] Frame script registered
+1545458913663	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545458915325	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545458915435	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458915875	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458916175	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545458916239	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545458916452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545458916458	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545458916617	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458916622	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458916906	Marionette	INFO	Stopped listening on port 55168
+1545458916940	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 9696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 96[Parent 4504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 217[Parent 4504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4504, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545458939019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.J3X43OVYNtVO"
+1545458943555	Marionette	INFO	Listening on port 55199
+1545458943818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545458943864	Marionette	DEBUG	[6442450945] Frame script loaded
+1545458943867	Marionette	DEBUG	[6442450945] Frame script registered
+1545458943886	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545458945237	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545458945285	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458945993	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458946279	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545458946321	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545458946539	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545458946545	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545458946849	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545458946864	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545458947186	Marionette	INFO	Stopped listening on port 55199
+1545458947225	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 6444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 7228, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459205845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.6tA1pXdT7kJl"
+1545459209594	Marionette	INFO	Listening on port 55249
+1545459209824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459209882	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459209884	Marionette	DEBUG	[6442450945] Frame script registered
+1545459209907	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459211146	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459211352	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459211759	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459212055	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459212111	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459212300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459212306	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459212659	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459212662	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459212825	Marionette	INFO	Stopped listening on port 55249
+1545459212854	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1660, Chrome_ChildThread] WAR[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459227952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.WDYSj4j8bBdL"
+1545459232009	Marionette	INFO	Listening on port 55282
+1545459232400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459232522	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459232523	Marionette	DEBUG	[6442450945] Frame script registered
+1545459232536	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459233648	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459233780	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459234071	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459234388	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459234452	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459234727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459234743	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459235086	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459235096	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459235400	Marionette	INFO	Stopped listening on port 55282
+1545459235437	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 3904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child[Parent 3904, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12796,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459392752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.MCZWmtneUCIk"
+1545459397234	Marionette	INFO	Listening on port 55315
+1545459397297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459397348	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459397351	Marionette	DEBUG	[6442450945] Frame script registered
+1545459397373	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459399044	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459399169	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459399575	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459399845	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459399926	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459400151	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459400153	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459400517	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459400521	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459400940	Marionette	INFO	Stopped listening on port 55315
+1545459400982	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 10348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 876,[Parent 10348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 216, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459472206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.RRlpsDCk27yb"
+1545459476480	Marionette	INFO	Listening on port 55351
+1545459476665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459476711	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459476712	Marionette	DEBUG	[6442450945] Frame script registered
+1545459476728	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459477884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459477915	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459478376	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459478681	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459478748	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459478913	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459478916	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459479168	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459479173	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459479365	Marionette	INFO	Stopped listening on port 55351
+1545459479385	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 10776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5948, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459515376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.qPXFQEqHcExH"
+1545459519410	Marionette	INFO	Listening on port 55385
+1545459519855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459519958	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459519959	Marionette	DEBUG	[6442450945] Frame script registered
+1545459519979	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459521651	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459521795	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459522196	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459522469	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459522539	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459522727	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459522729	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459522990	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459523011	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459523405	Marionette	INFO	Stopped listening on port 55385
+[Child 4436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4436,[Parent 5028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 106[GPU 1120, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459564524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.IexLPuBUCfWT"
+1545459568930	Marionette	INFO	Listening on port 55421
+1545459569043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459569137	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459569316	Marionette	DEBUG	[6442450945] Frame script registered
+1545459569404	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459570369	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459570490	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459570907	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459571187	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459571258	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459571461	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459571466	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459571737	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459571741	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459572028	Marionette	INFO	Stopped listening on port 55421
+1545459572066	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5284, Chrome_ChildThread] WARNING:[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5708, Ch[Parent 8824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459888153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.6J8abXQXiQZj"
+1545459892634	Marionette	INFO	Listening on port 55474
+1545459892875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459892947	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459892948	Marionette	DEBUG	[6442450945] Frame script registered
+1545459892964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459894324	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459894428	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459894749	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459895069	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459895127	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459895319	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459895323	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459895572	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459895587	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459895811	Marionette	INFO	Stopped listening on port 55474
+[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1664, Chrome_ChildThread] [Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5096, Chrome_ChildThre[Parent 9020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 824
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545459927033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.dPs0ZH3PyzWe"
+1545459931222	Marionette	INFO	Listening on port 55511
+1545459931545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545459931668	Marionette	DEBUG	[6442450945] Frame script loaded
+1545459931670	Marionette	DEBUG	[6442450945] Frame script registered
+1545459931710	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545459932455	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545459932492	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459933154	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459933419	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545459933476	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545459933779	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545459933785	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545459933988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545459933991	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545459934249	Marionette	INFO	Stopped listening on port 55511
+1545459934288	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 2588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Parent 2588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7088,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460080666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.1p1YXQfhw2Fv"
+1545460084861	Marionette	INFO	Listening on port 55567
+1545460085156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460085273	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460085286	Marionette	DEBUG	[6442450945] Frame script registered
+1545460085296	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460087251	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460087305	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460087612	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460087866	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460087923	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460088123	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460088128	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460088425	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460088614	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460089175	Marionette	INFO	Stopped listening on port 55567
+[Parent 5460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9276, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460105858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.WE5f8NiISFbY"
+1545460110407	Marionette	INFO	Listening on port 55602
+1545460110896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460110931	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460110932	Marionette	DEBUG	[6442450945] Frame script registered
+1545460110945	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460111819	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460111875	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460112769	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460113025	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460113085	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460113322	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460113323	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460113504	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460113509	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460113733	Marionette	INFO	Stopped listening on port 55602
+1545460113756	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4528, Chro[Parent 10436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460137364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.15UDs0QmdHmF"
+1545460141482	Marionette	INFO	Listening on port 55635
+1545460141745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460141854	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460141856	Marionette	DEBUG	[6442450945] Frame script registered
+1545460141875	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460143945	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460144026	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460144373	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460144628	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460144686	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460144833	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460144835	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460145040	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460145045	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460145447	Marionette	INFO	Stopped listening on port 55635
+[Child 6344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6344, Chrome_Child[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2764, [GPU 3308
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460221662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.lcxaq22ZIt7x"
+1545460226561	Marionette	INFO	Listening on port 55671
+1545460226676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460226744	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460226749	Marionette	DEBUG	[6442450945] Frame script registered
+1545460226794	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460228385	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460228459	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460228923	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460229231	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460229254	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460229419	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460229421	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460229647	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460229676	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460230032	Marionette	INFO	Stopped listening on port 55671
+1545460230074	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 12728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chr[GPU 2868, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460264221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.PeX6KCISllGe"
+1545460268360	Marionette	INFO	Listening on port 55706
+1545460268636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460268683	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460268685	Marionette	DEBUG	[6442450945] Frame script registered
+1545460268700	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460270504	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460270573	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460270969	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460271285	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460271345	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460271610	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460271621	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460271924	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460271938	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460272303	Marionette	INFO	Stopped listening on port 55706
+[Parent 3248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 9316
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460283053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.fnnZS2cjV7Me"
+1545460287303	Marionette	INFO	Listening on port 55741
+1545460287729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460287797	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460287933	Marionette	DEBUG	[6442450945] Frame script registered
+1545460288007	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460290988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460291141	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460291426	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460291718	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460291817	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460292040	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460292044	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460292321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460292329	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460292764	Marionette	INFO	Stopped listening on port 55741
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 589: TypeError: this.tablesData[table] is undefined
+[Parent 8108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 84
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460667630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.DyQRWC1HjM3B"
+1545460671415	Marionette	INFO	Listening on port 55798
+1545460671613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460671670	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460671671	Marionette	DEBUG	[6442450945] Frame script registered
+1545460671682	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460673138	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460673340	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460673935	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460674221	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460674252	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460674442	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460674445	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460674730	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460674742	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460675095	Marionette	INFO	Stopped listening on port 55798
+[Child 8840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8[Child 6024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6024, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460688147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.Y3JI7sW4nMgv"
+1545460692701	Marionette	INFO	Listening on port 55833
+1545460692834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460692918	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460693095	Marionette	DEBUG	[6442450945] Frame script registered
+1545460693208	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460694563	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460694615	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460695085	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460695354	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460695415	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460695560	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460695565	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460695816	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460695838	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460696194	Marionette	INFO	Stopped listening on port 55833
+1545460696241	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 8776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8[Parent 1508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460735958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.rakT86UG356I"
+1545460740420	Marionette	INFO	Listening on port 55867
+1545460740443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460740520	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460740524	Marionette	DEBUG	[6442450945] Frame script registered
+1545460740548	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460742257	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460742500	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460742699	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460742995	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460743070	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460743244	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460743245	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460743504	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460743533	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460743919	Marionette	INFO	Stopped listening on port 55867
+[Parent 8980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 448
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545460816472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.9392Byhd8mvC"
+1545460820977	Marionette	INFO	Listening on port 55900
+1545460821047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545460821095	Marionette	DEBUG	[6442450945] Frame script loaded
+1545460821096	Marionette	DEBUG	[6442450945] Frame script registered
+1545460821110	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545460822887	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545460823002	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460823380	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460823642	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545460823699	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545460823897	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545460823904	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545460824184	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545460824203	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545460824542	Marionette	INFO	Stopped listening on port 55900
+[Parent 7172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7276, C[Parent 7172, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11236, Chrome_ChildThread] WARN[GPU 7420,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461071030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.MiUVzR2TAGNh"
+1545461075170	Marionette	INFO	Listening on port 55948
+1545461075425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461075491	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461075493	Marionette	DEBUG	[6442450945] Frame script registered
+1545461075512	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461077296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461077551	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461077689	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461077987	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461078061	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461078256	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461078259	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461078507	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461078511	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461078882	Marionette	INFO	Stopped listening on port 55948
+1545461078923	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12748, Chrome_ChildThread] WARNING[Parent 12680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461106276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.977If6oM5l3k"
+1545461110414	Marionette	INFO	Listening on port 55981
+1545461110691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461110802	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461110804	Marionette	DEBUG	[6442450945] Frame script registered
+1545461110823	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461112075	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461112114	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461112485	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461112788	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461112844	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461113118	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461113124	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461113315	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461113319	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461113521	Marionette	INFO	Stopped listening on port 55981
+1545461113550	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chrome_ChildThread][Parent 11004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:159:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:53:5
+observe@resource://gre/modules/AsyncShutdown.jsm:541:9
+
+[GPU 316
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461127565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.TyVJGodn19zI"
+1545461131531	Marionette	INFO	Listening on port 56014
+1545461131998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461132115	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461132293	Marionette	DEBUG	[6442450945] Frame script registered
+1545461132382	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461133446	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461133529	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461135168	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461135440	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461135553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461135687	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461135694	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461135981	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461135984	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461136391	Marionette	INFO	Stopped listening on port 56014
+[Parent 10456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 125[Parent 10456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10356, Chrome[GPU 4836, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461363827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.72P9zoXqPY5m"
+1545461367739	Marionette	INFO	Listening on port 56056
+1545461367747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461367781	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461367812	Marionette	DEBUG	[6442450945] Frame script registered
+1545461367866	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461369785	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461369856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461370235	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461370550	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461370611	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461370840	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461370845	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461371178	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461371182	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461371589	Marionette	INFO	Stopped listening on port 56056
+1545461371629	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 11376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1137[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 179[Parent 4084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1668, Chrome_ChildThread] WARNI[GPU 10456, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461386553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.19bFUdYc8O5g"
+1545461390495	Marionette	INFO	Listening on port 56088
+1545461391016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461391060	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461391222	Marionette	DEBUG	[6442450945] Frame script registered
+1545461391305	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461392238	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461392374	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461392621	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461392917	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461392990	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461393244	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461393254	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461393558	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461393561	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461393755	Marionette	INFO	Stopped listening on port 56088
+1545461393789	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 9432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436, Chrome_ChildT[Parent 9432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9396, Chrome_C[GPU 11284, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461566916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.U6RMLnhG6Ymk"
+1545461571474	Marionette	INFO	Listening on port 56126
+1545461571953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461572061	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461572062	Marionette	DEBUG	[6442450945] Frame script registered
+1545461572077	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461573175	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461573241	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461573559	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461573859	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461573926	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461574110	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461574115	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461574301	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461574304	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461574646	Marionette	INFO	Stopped listening on port 56126
+1545461574692	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 13104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545461583296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.DAL7pY2mFV9K"
+1545461587283	Marionette	INFO	Listening on port 56160
+1545461587713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545461587770	Marionette	DEBUG	[6442450945] Frame script loaded
+1545461587771	Marionette	DEBUG	[6442450945] Frame script registered
+1545461587791	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545461588567	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545461588714	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461589027	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461589309	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545461589336	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545461589547	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545461589550	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545461589812	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545461589816	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545461590031	Marionette	INFO	Stopped listening on port 56160
+1545461590066	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+flushAllWindowsAsync()@resource:///modules/sessionstore/SessionStore.jsm:1697
+ssi_onQuitApplicationGranted/<()@resource:///modules/sessionstore/SessionStore.jsm:1624
+trigger()@resource://gre/modules/AsyncShutdown.jsm:710
+_wait()@resource://gre/modules/AsyncShutdown.jsm:857
+wait()@resource://gre/modules/AsyncShutdown.jsm:841
+observe()@resource://gre/modules/AsyncShutdown.jsm:524
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Child 520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 520[Parent 5012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1234[Parent 5012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 1448, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545463879793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.sRowRmxl8v2e"
+1545463884144	Marionette	INFO	Listening on port 56266
+1545463884392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545463884450	Marionette	DEBUG	[6442450945] Frame script loaded
+1545463884454	Marionette	DEBUG	[6442450945] Frame script registered
+1545463884463	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545463885585	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545463885674	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545463886139	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545463886407	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545463886422	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545463886695	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545463886701	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545463887073	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545463887120	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545463887365	Marionette	INFO	Stopped listening on port 56266
+1545463887391	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://activity-stream/lib/ActivityStreamPrefs.jsm :: ignoreBranch :: line 29"  data: no] Stack trace: ignoreBranch()@resource://activity-stream/lib/ActivityStreamPrefs.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:172
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:363
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:86
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:194
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:1592
+_shutdown()@resource://gre/modules/addons/XPIProvider.jsm:1728
+observe()@resource://gre/modules/AsyncShutdown.jsm:541
+GeckoDriver.prototype.quit()@driver.js:3319
+despatch()@server.js:297
+execute()@server.js:271
+onPacket/<()@server.js:246
+onPacket()@server.js:245
+_onJSONObjectReady/<()@transport.js:500
+[Parent 12772, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 12772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2868, Chrome_ChildT[GPU 10196, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545464013695	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.I8H7ONHWCjqI"
+1545464017559	Marionette	INFO	Listening on port 56307
+1545464017703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545464017789	Marionette	DEBUG	[6442450945] Frame script loaded
+1545464017810	Marionette	DEBUG	[6442450945] Frame script registered
+1545464017825	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545464019732	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545464019803	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545464020181	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545464020460	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545464020534	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545464020792	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545464020798	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545464021178	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545464021181	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545464021280	Marionette	INFO	Stopped listening on port 56307
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3856,[Parent 9384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 723
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1545464048792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.PWeEhr1oR5kr"
+1545464052934	Marionette	INFO	Listening on port 56343
+1545464053205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545464053263	Marionette	DEBUG	[6442450945] Frame script loaded
+1545464053265	Marionette	DEBUG	[6442450945] Frame script registered
+1545464053318	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1545464054661	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1545464054821	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545464055164	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545464055436	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1545464055505	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.reg.uci.edu/perl/WebSoc
+1545464055690	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.reg.uci.edu/perl/WebSoc
+1545464055696	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.reg.uci.edu/perl/WebSoc
+1545464056232	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.reg.uci.edu/perl/WebSoc
+1545464056233	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.reg.uci.edu/perl/WebSoc
+1545464056311	Marionette	INFO	Stopped listening on port 56343
+[Parent 4244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3260, Ch[Parent 4244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5028, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
